@@ -33,3 +33,7 @@ ssh-add $HOME/.ssh/your_file_name
 ```
 
 5. Done! Now restart your Powershell and even Windows if necessary.
+
+### Arch config paths  
+~/.gitconfig  
+~/.config/kwinrc  
