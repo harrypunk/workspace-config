@@ -1,8 +1,0 @@
-# https://wiki.archlinux.org/title/Rime
-# fcitx5
-# ~/.local/share/fcitx5/rime/
-patch:
-  schema_list:
-    - schema: luna_pinyin_simp
-    - schema: luna_pinyin_tw
-    - schema: luna_pinyin
